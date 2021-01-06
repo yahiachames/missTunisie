@@ -1,0 +1,1 @@
+export const baseURL = "https://miss-tunisie.herokuapp.com/"
